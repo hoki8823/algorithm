@@ -1,7 +1,7 @@
 package programmers;
 import java.util.HashMap;
 
-public class Question_1 {
+public class 완주하지못한산수 {
 	public String solution(String[] participant, String[] completion) {
         String answer = "";
         

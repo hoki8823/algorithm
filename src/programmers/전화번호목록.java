@@ -1,7 +1,7 @@
 package programmers;
 import java.util.HashMap;
 
-public class Question_2 {
+public class 전화번호목록 {
 	public boolean solution(String[] phone_book) {
         boolean answer = true;
         
